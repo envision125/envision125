@@ -1,9 +1,7 @@
 
 > On a journey to programming the Universe :computer: :rocket:
 
-## About me
-
-Hi, I'm Oscat. Coder.
+## Hi, I'm Oscat. Coder.
 
 | Rank | Skill |
 |-----:|-----------|
