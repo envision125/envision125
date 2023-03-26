@@ -1,11 +1,11 @@
-                                                                        Software Engineer                              
-> On a journey to programming the Universe :computer: :rocket:
+                                                         On a journey to programming the Universe                          
+
 
 ### Hi, I'm Oscar I go by the code name @OSO_Code or @elRaton7. 
 ---
 
 * 🌍  I'm based in the Penisula
-* 🖥️  See my portfolio [here](https://alexanderjcairel.netlify.app/)
+<!-- * 🖥️  See my portfolio [here](https://alexanderjcairel.netlify.app/) -->
 * ✉️  You can contact me at [kan125code@gmail.com](mailto:kan125code@gmail.com)
 * 🚀  I'm currently working on getting certifcates. 
 
