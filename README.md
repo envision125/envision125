@@ -1,7 +1,7 @@
 
 > On a journey to programming the Universe :computer: :rocket:
 
-## Hi, I'm Oscat. Coder.
+## Hi, I'm Oscar a.k.a OSO_Code.
 
 | Rank | Skill |
 |-----:|-----------|
