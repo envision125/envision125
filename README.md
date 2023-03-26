@@ -3,11 +3,10 @@
 
 
 ## Skills
-
+# Skills
 ****
 
 ### Front-End
-
 - HTML 5
 - CSS3,5
 - Svelte
