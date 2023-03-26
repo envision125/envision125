@@ -11,16 +11,13 @@
 
 ---
 
-### Front-End
-- HTML 5
-- CSS3,5
-- Svelte
-- React
 
-| Syntax      | 
-| :---        |   
-| Header      |
-| Paragraph   | 
+| Front-End| 
+| :---    |   
+| HTML5   |
+| CSS5    | 
+| JS      |
+| Svelete |
 
 ### Back-End
 
