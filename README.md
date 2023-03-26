@@ -1,5 +1,5 @@
                                 Software Engineer
- > On a journey to programming the Universe :computer: :rocket:
+  On a journey to programming the Universe :computer: :rocket:
 
                                 
 -----------------------
