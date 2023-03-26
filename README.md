@@ -5,6 +5,6 @@
 </picture
   
   ---
-> If we pull together and commit ourselves, then we can push through anything.
+> On a journey to programming the Universe
 
-— Mona the Octocat
+
