@@ -1,7 +1,7 @@
 
 > On a journey to programming the Universe :computer: :rocket:
 
-## Hi, I'm Oscar a.k.a OSO_Code.
+## Hi, I'm Oscar I go by the code name @OSO_Code or @elRaton7. Born in Vercruz, Mexico. Rasied in Cali. Live in beautiful SF.
 
 | Rank | Skill |
 |-----:|-----------|
