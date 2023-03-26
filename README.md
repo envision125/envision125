@@ -1,11 +1,10 @@
 
-  ---
 > On a journey to programming the Universe :computer: :rocket:
 
 
 ## Skills
-****
 
+****
 
 ### Front-End
 
