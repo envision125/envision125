@@ -1,17 +1,15 @@
 
 > On a journey to programming the Universe :computer: :rocket:
----
-
 
 ## About me
 
-Hi, I'm Mona. You might recognize me as GitHub's mascot.
+Hi, I'm Oscat. Coder.
 
-| Rank | Languages |
+| Rank | Skill |
 |-----:|-----------|
-|     1| Javascript|
-|     2| Python    |
-|     3| SQL       |
+|     1| HTML      |
+|     2| CSS5      |
+|     3| Svelte    |
 
 ---
 
