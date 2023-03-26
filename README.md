@@ -19,18 +19,21 @@
 | JS      |
 | Svelete |
 
-### Back-End
+| Back-End|
+|:---     |
+| Next. JS|
+| Node.JS |
+| Netifly |
 
-- Next. JS
-- Node.JS
-- Netifly
-
-UX-UI Desinger:
-
-
+## UX-UI Desinger:
+- Figma
+- Adobe XD
+- Font Aw, Material Design, Iconify, Material Design
 
 
 ## Certificates
+I'm working on getting my data engieer certifcatr.
+At the momment, I'm taking an onlineclass in AL & ML, Computer Vision
 
 
 ## Education
