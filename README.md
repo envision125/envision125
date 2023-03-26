@@ -17,6 +17,11 @@
 - Svelte
 - React
 
+| Syntax      | 
+| :---        |   
+| Header      |
+| Paragraph   | 
+
 ### Back-End
 
 - Next. JS
