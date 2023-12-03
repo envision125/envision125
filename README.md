@@ -1,7 +1,7 @@
                                                          On a journey to programming the Universe                          
 
 
-### Hi, I'm Oscar I go by the code name @OSO_Code or @elRaton7. 
+### Hi, I'm Oscar
 ---
 
 * 🌍  I'm based in the San Franciscio
