@@ -1,17 +1,20 @@
                                                          On a journey to programming the Universe                          
 
 
-### Hi, I'm Oscar
+### Hi, I'm Oscar / Hola, Soy Oscar
+
 ---
 
 * 🌍  I'm based in the San Franciscio
 <!-- * 🖥️  See my portfolio [here](https://alexanderjcairel.netlify.app/) -->
 * ✉️  You can contact me at [kan125code@gmail.com](mailto:kan125code@gmail.com)
-* 🚀  I'm currently working on getting certifcates. 
-
 ---
 
-### Skills
+* 🌍 Estoy en San Francisco
+<!-- * 🖥️  See my portfolio [here](https://alexanderjcairel.netlify.app/) -->
+* ✉️  Si quieres trabjar en un project mandame un correo electronico [kan125code@gmail.com](mailto:kan125code@gmail.com)
+
+### Skills / Habilidades
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
@@ -30,15 +33,5 @@
 </p>
 
 
-## Certificates
-I'm working on getting my data engieer certifcatr.
-At the momment, I'm taking an onlineclass in AL & ML, Computer Vision
-
-
-## Education
-1. B.S Computer Scieince
-2. B.S ENSP
-
----------------
 
 
